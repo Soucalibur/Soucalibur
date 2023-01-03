@@ -14,4 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# **Hola, Soy [Emanuel Juri](https://www.linkedin.com/in/matthewfullstack/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">
+# **Hola, Soy [Matthew Gallar](https://www.linkedin.com/in/matthewfullstack/)** 
+
+Sobre mí
+
+Soy desarrollador Full Stack, entusiasta por el conocimiento de la computación y el desarrollo profesional continuo. 
+Actualmente me dedico a realizar proyectos y resolución de problemas lógicos para incrementar mis habilidades técnicas, así también como aprender nuevas tecnologías e interiorizar en las ya conocidas.
+
+Adicionalmente estoy en la búsqueda constante de trabajo en el cuál pueda desempeñar todos mis conocimientos y aptitudes aprendidas a lo largo de mi vida, no solamente las “tech skills” sino también las “soft skills” que vienen formándose día a día, con la intención de postularme como un valioso recurso para la empresa que decida formar un lazo de mutuo fortalecimiento social, económico y laboral.
+
+Lenguajes y herramientas
+JavaScript, HTML, CSS, React, Redux, Webpack, Node.js, PostgreSQL, Postman, Git, GitHub, NPM, Visual Studio Code, Trello
+
