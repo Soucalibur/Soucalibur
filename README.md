@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<H1> Hola, Soy [Matthew Gallar](https://www.linkedin.com/in/matthewfullstack/) </h1> 
+# **Hola, Soy [Matthew Gallar](https://www.linkedin.com/in/emanuel-juri/)**
 
 Sobre mí
 
