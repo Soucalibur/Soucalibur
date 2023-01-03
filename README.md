@@ -27,3 +27,11 @@ Lenguajes y herramientas
 
 JavaScript, HTML, CSS, React, Redux, Webpack, Node.js, PostgreSQL, Postman, Git, GitHub, NPM, Visual Studio Code, Trello
 ![langujes&tools](https://user-images.githubusercontent.com/76783198/182465347-06d45139-1931-4a88-b81a-a6861070c02a.svg)
+
+<div>
+
+        <div>
+            <p>HELLO THERE</p>
+        </div>
+
+ </div>
