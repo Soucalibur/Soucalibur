@@ -24,5 +24,6 @@ Actualmente me dedico a realizar proyectos y resolución de problemas lógicos p
 Adicionalmente estoy en la búsqueda constante de trabajo en el cuál pueda desempeñar todos mis conocimientos y aptitudes aprendidas a lo largo de mi vida, no solamente las “tech skills” sino también las “soft skills” que vienen formándose día a día, con la intención de postularme como un valioso recurso para la empresa que decida formar un lazo de mutuo fortalecimiento social, económico y laboral.
 
 Lenguajes y herramientas
+
 JavaScript, HTML, CSS, React, Redux, Webpack, Node.js, PostgreSQL, Postman, Git, GitHub, NPM, Visual Studio Code, Trello
 
