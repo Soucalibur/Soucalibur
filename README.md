@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# **Hola, Soy [Matthew Gallar](https://www.linkedin.com/in/matthewfullstack/)** 
+<H1> Hola, Soy [Matthew Gallar](https://www.linkedin.com/in/matthewfullstack/) </h1> 
 
 Sobre mí
 
@@ -28,4 +28,4 @@ Lenguajes y herramientas
 JavaScript, HTML, CSS, React, Redux, Webpack, Node.js, PostgreSQL, Postman, Git, GitHub, NPM, Visual Studio Code, Trello
 ![langujes&tools](https://user-images.githubusercontent.com/76783198/182465347-06d45139-1931-4a88-b81a-a6861070c02a.svg)
 
-<h1> Hello  < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+
