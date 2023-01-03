@@ -28,7 +28,8 @@ Lenguajes y herramientas
 JavaScript, HTML, CSS, React, Redux, Webpack, Node.js, PostgreSQL, Postman, Git, GitHub, NPM, Visual Studio Code, Trello
 ![langujes&tools](https://user-images.githubusercontent.com/76783198/182465347-06d45139-1931-4a88-b81a-a6861070c02a.svg)
 
-¿Te gustaría conocerme más? Contáctame, sería un placer para mí
+<h4>¿Te gustaría conocerme más? Contáctame, sería un placer para mí</h4>
+
 LinkedIn: https://www.linkedin.com/in/matthewfullstack/
 Email: matthewgallar2112@outlook.com
 
