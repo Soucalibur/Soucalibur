@@ -28,10 +28,4 @@ Lenguajes y herramientas
 JavaScript, HTML, CSS, React, Redux, Webpack, Node.js, PostgreSQL, Postman, Git, GitHub, NPM, Visual Studio Code, Trello
 ![langujes&tools](https://user-images.githubusercontent.com/76783198/182465347-06d45139-1931-4a88-b81a-a6861070c02a.svg)
 
-<div>
-
-        <div>
-            <p>HELLO THERE</p>
-        </div>
-
- </div>
+<h1> Hello  < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
